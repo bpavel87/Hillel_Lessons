@@ -8,7 +8,7 @@ public class Start {
 
         print("Hello my dear friends");
 
-        print("Hello my dear friends");
+        print("Hello my dear friends")
 
         int r = pow(10);
         System.out.println(r);
